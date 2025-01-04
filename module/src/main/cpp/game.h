@@ -3,6 +3,6 @@
 
 // TODO: change this
 #define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.begma.bhoppro"
+#define GamePackageName "com.axlebolt.standoff2"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
